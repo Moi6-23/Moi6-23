@@ -34,6 +34,7 @@ ____
 
 <p align="left>
 <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="reactjs" width="65" height="65"/> </a> 
+<a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="reactjs" width="65" height="65"/> </a> 
 <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Nextjs" width="65" height="65"/> </a> 
 <a target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueJs" width="65" height="65"/> </a> 
 <a target="_blank"> <img  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  alt="css" width="65" height="65"/> </a> 
