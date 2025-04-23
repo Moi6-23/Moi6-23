@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Mi nombre es Moisés Arias 👋
-#### Frontend Developer | Ingeníero Mecatrónico💻
+#### Ingeniero de Software Frontend Senior | Ingeníero Mecatrónico💻
 
 
 
